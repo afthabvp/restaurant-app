@@ -1,0 +1,5 @@
+Item_id	Menu_Item	Preparation_time(in mins)
+1	Sandwich	5
+2	Coffee	3
+3	Cereal	3
+4	Pizza	7
